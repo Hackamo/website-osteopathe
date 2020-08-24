@@ -22,14 +22,20 @@ body {
 
 .navbar-brand {
   font-size: 1.5rem;
-
 }
 
 .navbar-nav li {
-  padding-right: 1.5rem;
+  padding-right: 1rem;
 }
+
+.navbar-nav  {
+  padding-right: 9rem;
+  padding-left: 9rem;
+
+}
+
 .nav-link {
-  font-size: 0.9em !important;
+  font-size: 1.1em !important;
 }
 
 .nav-item dropdown {
