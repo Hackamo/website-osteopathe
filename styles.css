@@ -266,6 +266,21 @@ hr.light-100 {
   margin: 1rem;
 }
 
+.mail {
+  margin: 10px;
+  justify-content: center;
+
+}
+
+.mail button {
+  margin-left: 10px;
+}
+
+.tel {
+  display: flex;
+  flex-direction: column;
+}
+
 /*---Media Queries --*/
 
 
